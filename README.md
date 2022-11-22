@@ -1,2 +1,2 @@
 # SAMPLES
-University student coding samples
+Selected coding projects from my university coursework
