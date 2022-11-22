@@ -1,2 +1,2 @@
 # SAMPLES
-university student coding samples
+University student coding samples
